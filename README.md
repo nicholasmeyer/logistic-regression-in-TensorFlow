@@ -1,11 +1,11 @@
-# logistic-regression-in-TensorFlow
+# Logistic regression in TensorFlow
 
 Implementation of logisitc regression in TensorFlow according to the project structure outlined by Danijar Hafner.
 
 ### Dependencies
 
 ```
-* TensorFlow
+*TensorFlow
 ```
 
 ### Usage
@@ -17,7 +17,6 @@ python logit.py
 ```
 
 Optional arguments 
-
 ```
 * -b (batch size)
 * -n (number of iterations)
