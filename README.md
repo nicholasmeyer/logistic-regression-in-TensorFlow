@@ -5,7 +5,7 @@ Implementation of logisitc regression in TensorFlow according to the project str
 ### Dependencies
 
 ```
-*TensorFlow
+TensorFlow
 ```
 
 ### Usage
@@ -18,10 +18,10 @@ python logit.py
 
 Optional arguments 
 ```
-* -b (batch size)
-* -n (number of iterations)
-* -d (display frequency)
-* -l (learning rate)
+-b (batch size)
+-n (number of iterations)
+-d (display frequency)
+-l (learning rate)
 ```
 
 ### Credit
